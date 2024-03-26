@@ -1,0 +1,216 @@
+table{
+    margin: auto;
+}
+
+body{
+    background-color: black;
+    font-family: monospace;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    color:#ccc;
+}
+
+.nao-metal {
+    border: 3px solid #57ff24;
+    padding: 5px;
+    color: #57ff24;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.gas-nobre {
+    border: 3px solid #ffaf38;
+    padding: 5px;
+    color: #ffaf38;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.alcalino {
+    border: 3px solid #901aff;
+    padding: 5px;
+    color: #901aff;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.alcalino-terroso {
+    border: 3px solid #2861ff;
+    padding: 5px;
+    color: #2861ff;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.semimetal {
+    border: 3px solid #30ff98;
+    padding: 5px;
+    color: #30ff98;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.halogenio {
+    border: 3px solid #fcf829;
+    padding: 5px;
+    color: #fcf829;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.outro-metal {
+    border: 3px solid #2cdcfc;
+    padding: 5px;
+    color: #2cdcfc;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.transicao {
+    border: 3px solid #2ca0ff;
+    padding: 5px;
+    color: #2ca0ff;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lantanideo {
+    border: 3px solid #f87b32;
+    padding: 5px;
+    color: #f87b32;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.actinidio {
+    border: 3px solid #ff2f2f;
+    padding: 5px;
+    color: #ff2f2f;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.transicao:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.nao-metal:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.alcalino:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.alcalino-terroso:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.gas-nobre:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.semimetal:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.halogenio:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.outro-metal:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.lantanideo:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.actinidio:hover {
+    border: 3px solid #ccc;
+    color: #ccc;
+    background-color: #cccccc35;
+}
+
+.numero-atomico {
+    font-weight: bold;
+}
+
+.simbolo {
+    font-size: 18px;
+}
+
+.nome {
+    font-size: 10px;
+}
